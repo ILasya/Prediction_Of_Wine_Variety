@@ -35,5 +35,3 @@ Train Accuracy: 0.9485 (94.85 %)
    3) Top 10 Wine Producing Wineries
    4) Top 10 Wine Varieties based on Points given
    5) Distribution of Points For Top 10 Wine Varieties
-   
-5. predicted_test.csv - This is the final csv file after prediction is done. This file contains the new column 'Variety' with the predicted Wine variety after applying the model on the test.csv file.
